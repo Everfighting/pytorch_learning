@@ -1,0 +1,5 @@
+1.官方教程 中文：https://pytorch-cn.readthedocs.io/zh/latest/
+2.实战代码 https://github.com/yunjey/pytorch-tutorial
+3.跟随任务完成
+4.视频首推 https://www.bilibili.com/video/av31914351/
+
