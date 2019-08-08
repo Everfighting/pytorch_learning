@@ -24,8 +24,6 @@ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
   - 将梯度返回到网络的参数中；
   - 更新参数。
 
-
-
 ## Pytorch基本概念
 
     import torch
@@ -33,8 +31,6 @@ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
     import pandas as pd 
     from torch import nn 
     from torch.autograd import Variable
-
-
 
 ## Tensor张量
 
